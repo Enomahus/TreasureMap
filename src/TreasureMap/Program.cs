@@ -19,9 +19,8 @@ var inputLines = await File.ReadAllLinesAsync(inputFilePath);
 
 var initialState = MapParser.Parse(inputLines);
 
-var handler = new RunSimulationCommandHandler();
 var command = new RunSimulationCommand { InitialState = initialState };
-var finalState = handler.Handler(command);
+var finalState = RunSimulationCommandHandler.Handler(command);
 
 var outputContent = MapParser.Serialize(finalState);
 
