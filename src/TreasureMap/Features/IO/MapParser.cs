@@ -14,7 +14,7 @@ public static class MapParser
 
         foreach (var line in lines)
         {
-            var cleanLine = line.Trim();
+            var cleanLine = line.Trim(' ', '"', ',');
             if (string.IsNullOrWhiteSpace(cleanLine) || cleanLine.StartsWith('#'))
                 continue;
 
