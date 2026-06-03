@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A27527D7-1577-4493-B3CA-7CABCCA7CA36}|src\\TreasureMap\\TreasureMap.csproj|d:\\entretiens\\carbon it\\treasuremap\\src\\treasuremap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27527D7-1577-4493-B3CA-7CABCCA7CA36}|src\\TreasureMap\\TreasureMap.csproj|solutionrelative:src\\treasuremap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3ECAA79-B03F-42DD-88FA-5F2953088C12}|tests\\TreasureMap.Tests\\TreasureMap.Tests.csproj|d:\\entretiens\\carbon it\\treasuremap\\tests\\treasuremap.tests\\features\\simulation\\simulationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3ECAA79-B03F-42DD-88FA-5F2953088C12}|tests\\TreasureMap.Tests\\TreasureMap.Tests.csproj|solutionrelative:tests\\treasuremap.tests\\features\\simulation\\simulationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27527D7-1577-4493-B3CA-7CABCCA7CA36}|src\\TreasureMap\\TreasureMap.csproj|d:\\entretiens\\carbon it\\treasuremap\\src\\treasuremap\\features\\simulation\\runsimulationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27527D7-1577-4493-B3CA-7CABCCA7CA36}|src\\TreasureMap\\TreasureMap.csproj|solutionrelative:src\\treasuremap\\features\\simulation\\runsimulationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27527D7-1577-4493-B3CA-7CABCCA7CA36}|src\\TreasureMap\\TreasureMap.csproj|d:\\entretiens\\carbon it\\treasuremap\\src\\treasuremap\\domain\\simulationstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27527D7-1577-4493-B3CA-7CABCCA7CA36}|src\\TreasureMap\\TreasureMap.csproj|solutionrelative:src\\treasuremap\\domain\\simulationstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3ECAA79-B03F-42DD-88FA-5F2953088C12}|tests\\TreasureMap.Tests\\TreasureMap.Tests.csproj|d:\\entretiens\\carbon it\\treasuremap\\tests\\treasuremap.tests\\features\\io\\mapparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3ECAA79-B03F-42DD-88FA-5F2953088C12}|tests\\TreasureMap.Tests\\TreasureMap.Tests.csproj|solutionrelative:tests\\treasuremap.tests\\features\\io\\mapparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27527D7-1577-4493-B3CA-7CABCCA7CA36}|src\\TreasureMap\\TreasureMap.csproj|d:\\entretiens\\carbon it\\treasuremap\\src\\treasuremap\\features\\io\\mapparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27527D7-1577-4493-B3CA-7CABCCA7CA36}|src\\TreasureMap\\TreasureMap.csproj|solutionrelative:src\\treasuremap\\features\\io\\mapparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27527D7-1577-4493-B3CA-7CABCCA7CA36}|src\\TreasureMap\\TreasureMap.csproj|d:\\entretiens\\carbon it\\treasuremap\\src\\treasuremap\\domain\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27527D7-1577-4493-B3CA-7CABCCA7CA36}|src\\TreasureMap\\TreasureMap.csproj|solutionrelative:src\\treasuremap\\domain\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27527D7-1577-4493-B3CA-7CABCCA7CA36}|src\\TreasureMap\\TreasureMap.csproj|d:\\entretiens\\carbon it\\treasuremap\\src\\treasuremap\\common\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27527D7-1577-4493-B3CA-7CABCCA7CA36}|src\\TreasureMap\\TreasureMap.csproj|solutionrelative:src\\treasuremap\\common\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27527D7-1577-4493-B3CA-7CABCCA7CA36}|src\\TreasureMap\\TreasureMap.csproj|d:\\entretiens\\carbon it\\treasuremap\\src\\treasuremap\\common\\orientation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27527D7-1577-4493-B3CA-7CABCCA7CA36}|src\\TreasureMap\\TreasureMap.csproj|solutionrelative:src\\treasuremap\\common\\orientation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1154,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimulationState.cs",
+              "DocumentMoniker": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\src\\TreasureMap\\Domain\\SimulationState.cs",
+              "RelativeDocumentMoniker": "src\\TreasureMap\\Domain\\SimulationState.cs",
+              "ToolTip": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\src\\TreasureMap\\Domain\\SimulationState.cs",
+              "RelativeToolTip": "src\\TreasureMap\\Domain\\SimulationState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:14:10.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapParserTests.cs",
+              "DocumentMoniker": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\tests\\TreasureMap.Tests\\Features\\IO\\MapParserTests.cs",
+              "RelativeDocumentMoniker": "tests\\TreasureMap.Tests\\Features\\IO\\MapParserTests.cs",
+              "ToolTip": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\tests\\TreasureMap.Tests\\Features\\IO\\MapParserTests.cs",
+              "RelativeToolTip": "tests\\TreasureMap.Tests\\Features\\IO\\MapParserTests.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T17:32:52.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RunSimulationCommand.cs",
+              "DocumentMoniker": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\src\\TreasureMap\\Features\\Simulation\\RunSimulationCommand.cs",
+              "RelativeDocumentMoniker": "src\\TreasureMap\\Features\\Simulation\\RunSimulationCommand.cs",
+              "ToolTip": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\src\\TreasureMap\\Features\\Simulation\\RunSimulationCommand.cs",
+              "RelativeToolTip": "src\\TreasureMap\\Features\\Simulation\\RunSimulationCommand.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T15:55:05.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\src\\TreasureMap\\Program.cs",
+              "RelativeDocumentMoniker": "src\\TreasureMap\\Program.cs",
+              "ToolTip": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\src\\TreasureMap\\Program.cs",
+              "RelativeToolTip": "src\\TreasureMap\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T15:28:28.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimulationTests.cs",
+              "DocumentMoniker": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\tests\\TreasureMap.Tests\\Features\\Simulation\\SimulationTests.cs",
+              "RelativeDocumentMoniker": "tests\\TreasureMap.Tests\\Features\\Simulation\\SimulationTests.cs",
+              "ToolTip": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\tests\\TreasureMap.Tests\\Features\\Simulation\\SimulationTests.cs",
+              "RelativeToolTip": "tests\\TreasureMap.Tests\\Features\\Simulation\\SimulationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T17:05:13.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapParser.cs",
+              "DocumentMoniker": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\src\\TreasureMap\\Features\\IO\\MapParser.cs",
+              "RelativeDocumentMoniker": "src\\TreasureMap\\Features\\IO\\MapParser.cs",
+              "ToolTip": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\src\\TreasureMap\\Features\\IO\\MapParser.cs",
+              "RelativeToolTip": "src\\TreasureMap\\Features\\IO\\MapParser.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T16:29:51.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Treasure.cs",
+              "DocumentMoniker": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\src\\TreasureMap\\Domain\\Treasure.cs",
+              "RelativeDocumentMoniker": "src\\TreasureMap\\Domain\\Treasure.cs",
+              "ToolTip": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\src\\TreasureMap\\Domain\\Treasure.cs",
+              "RelativeToolTip": "src\\TreasureMap\\Domain\\Treasure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T15:44:24.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Orientation.cs",
+              "DocumentMoniker": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\src\\TreasureMap\\Common\\Orientation.cs",
+              "RelativeDocumentMoniker": "src\\TreasureMap\\Common\\Orientation.cs",
+              "ToolTip": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\src\\TreasureMap\\Common\\Orientation.cs",
+              "RelativeToolTip": "src\\TreasureMap\\Common\\Orientation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T15:43:08.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\src\\TreasureMap\\Common\\Movement.cs",
+              "RelativeDocumentMoniker": "src\\TreasureMap\\Common\\Movement.cs",
+              "ToolTip": "D:\\ENTRETIENS\\CARBON IT\\TreasureMap\\src\\TreasureMap\\Common\\Movement.cs",
+              "RelativeToolTip": "src\\TreasureMap\\Common\\Movement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T15:42:11.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

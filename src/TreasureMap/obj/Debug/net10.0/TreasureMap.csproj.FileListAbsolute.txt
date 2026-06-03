@@ -1,0 +1,14 @@
+D:\ENTRETIENS\CARBON IT\TreasureMap\src\TreasureMap\bin\Debug\net10.0\TreasureMap.exe
+D:\ENTRETIENS\CARBON IT\TreasureMap\src\TreasureMap\bin\Debug\net10.0\TreasureMap.deps.json
+D:\ENTRETIENS\CARBON IT\TreasureMap\src\TreasureMap\bin\Debug\net10.0\TreasureMap.runtimeconfig.json
+D:\ENTRETIENS\CARBON IT\TreasureMap\src\TreasureMap\bin\Debug\net10.0\TreasureMap.dll
+D:\ENTRETIENS\CARBON IT\TreasureMap\src\TreasureMap\bin\Debug\net10.0\TreasureMap.pdb
+D:\ENTRETIENS\CARBON IT\TreasureMap\src\TreasureMap\obj\Debug\net10.0\TreasureMap.GeneratedMSBuildEditorConfig.editorconfig
+D:\ENTRETIENS\CARBON IT\TreasureMap\src\TreasureMap\obj\Debug\net10.0\TreasureMap.AssemblyInfoInputs.cache
+D:\ENTRETIENS\CARBON IT\TreasureMap\src\TreasureMap\obj\Debug\net10.0\TreasureMap.AssemblyInfo.cs
+D:\ENTRETIENS\CARBON IT\TreasureMap\src\TreasureMap\obj\Debug\net10.0\TreasureMap.csproj.CoreCompileInputs.cache
+D:\ENTRETIENS\CARBON IT\TreasureMap\src\TreasureMap\obj\Debug\net10.0\TreasureMap.dll
+D:\ENTRETIENS\CARBON IT\TreasureMap\src\TreasureMap\obj\Debug\net10.0\refint\TreasureMap.dll
+D:\ENTRETIENS\CARBON IT\TreasureMap\src\TreasureMap\obj\Debug\net10.0\TreasureMap.pdb
+D:\ENTRETIENS\CARBON IT\TreasureMap\src\TreasureMap\obj\Debug\net10.0\TreasureMap.genruntimeconfig.cache
+D:\ENTRETIENS\CARBON IT\TreasureMap\src\TreasureMap\obj\Debug\net10.0\ref\TreasureMap.dll
